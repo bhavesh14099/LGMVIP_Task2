@@ -1,4 +1,5 @@
-#Demo Site – User Fetching App
+**Demo Site – User Fetching App**
+
 A simple web application that fetches and displays user data dynamically using JavaScript, styled with CSS, and enhanced with Google Fonts and Font Awesome icons.
 
 Features
